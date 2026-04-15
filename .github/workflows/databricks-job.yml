@@ -27,4 +27,3 @@ jobs:
 
       - name: Run Sales Notebook Job
         run: databricks jobs run-now --job-id 98765
-``
